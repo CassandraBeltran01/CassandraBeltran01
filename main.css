@@ -12,10 +12,12 @@ h1 {
 }
 
 a {
-color: #CF00E5;
+color: #FFFFFF;
 text-decoration: none;
 }
-
+a:hover {
+  color: #D100FF;
+    }
 /* Centers images */
 
 img {
