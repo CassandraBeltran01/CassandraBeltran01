@@ -1,10 +1,13 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family:  cursive, sans-serif;
+font-style: normal;
+
+font-size: 60;
   line-height: 1.5;
   padding: 30px 20px;
-text-align: center;
+text-align:center;
 }
 
 h1 {
@@ -12,11 +15,11 @@ h1 {
 }
 
 a {
-color: #FFFFFF;
+color: #D90042;
 text-decoration: none;
 }
 a:hover {
-  color: #D100FF;
+  color: #000000;
     }
 /* Centers images */
 
